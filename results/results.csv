@@ -1,0 +1,5 @@
+model,precision,recall,f1,fbeta,accuracy
+baseline(uniform),0.42,0.52,0.46,0.51,0.52
+logistic(sgd),0.76,0.90,0.82,0.86,0.84
+knn,0.70,0.90,0.79,0.85,0.81
+svm(poly3),0.82,0.89,0.86,0.88,0.88
